@@ -50,3 +50,24 @@
 ``` 프로그래밍 언어이름  
 코드내용  
 ```
+
+```python  
+def func():  
+print  "HR  Hong"  
+print  "Spring"   
+pass  
+```  
+
+```javascript  
+var data  =  "HR  Spring"  
+data.son  =  "너에게  초대"  
+```  
+
+# 가로선  
+---
+***
+`````````
+
+하이퍼  링크
+'''[하이퍼 링크](URL)
+'''
