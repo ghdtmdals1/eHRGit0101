@@ -59,8 +59,8 @@ pass
 ```  
 
 ```javascript  
-var data  =  "HR  Spring"  
-data.son  =  "너에게  초대"  
+var data  =  "HR Spring"  
+data.son  =  "너에게 초대"  
 ```  
 
 # 가로선  
@@ -68,6 +68,7 @@ data.son  =  "너에게  초대"
 ***
 `````````
 
-하이퍼  링크
-'''[하이퍼 링크](URL)
+하이퍼 링크
+'''[하이퍼 링크](URL "설명")
+
 '''
